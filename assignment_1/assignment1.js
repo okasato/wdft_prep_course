@@ -57,5 +57,5 @@ Give the car object a property called "colour" and assign it the value of "black
 var car = {
     colour: "black" 
 };
-console.log(car.color);
+console.log(car.colour);
 
